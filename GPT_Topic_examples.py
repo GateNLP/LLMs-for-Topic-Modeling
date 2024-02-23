@@ -3,7 +3,7 @@ from collections import Counter
 import numpy as np 
 import time
 from tqdm import tqdm
-openai.api_key = "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"
+openai.api_key = [Your API Key]
 #
 import pandas as pd
 # data=pd.read_csv('/home/yidamu/Vera_AI/covid_misinfo.csv')
